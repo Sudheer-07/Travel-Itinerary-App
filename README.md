@@ -1,6 +1,6 @@
-# Travel Explorer - Modern Travel Planning Application
+# Travel Itinerary - Modern Travel Planning Application
 
-![Travel Explorer](https://img.shields.io/badge/React-19.1.0-blue)
+![Travel Itinerary](https://img.shields.io/badge/React-19.1.0-blue)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4.17-38B2AC)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
